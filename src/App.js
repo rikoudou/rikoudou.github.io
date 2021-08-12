@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This site is not in use. To check my portfolio please click <a href = "https://mozeeshan.com"> here</a>
+          This site is not in use. To check my portfolio, please click <a href = "https://mozeeshan.com"> here</a>.
         </p>
       </header>
     </div>
