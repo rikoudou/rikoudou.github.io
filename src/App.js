@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>TESTING LOL</h1>
+        <p>This site is not in use. To check my portfolio please click <a ref = "mozeeshan.com"> here</a></p>
       </header>
     </div>
   );
