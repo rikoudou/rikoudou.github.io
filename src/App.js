@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This site is not in use. To check my portfolio please click <a href = "mozeeshan.com"> here</a>
         </p>
         <a
           className="App-link"
@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        <p>This site is not in use. To check my portfolio please click <a ref = "mozeeshan.com"> here</a></p>
       </header>
     </div>
   );
